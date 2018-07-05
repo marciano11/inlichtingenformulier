@@ -1,4 +1,5 @@
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <head>
       <link href="style.css" rel="stylesheet" type="text/css">
 <script>
@@ -52,7 +53,7 @@ function this_onload() {
 
 <div class="center">
 <h1>Aangemeld</h1>
-Dank voor je aanmelding! Stuur deze link naar je decaan of mentor:
+Dank voor je aanmelding! Laat deze link invullen door je decaan of mentor en jezelf:
 <div id="link-container">
   <a id='linktosend' href='#'>(nog niet ingevuld)</a>
 </div>
